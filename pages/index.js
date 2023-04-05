@@ -7,14 +7,7 @@ export default function Home() {
   return (
     <div>
       <h1>Harsh Goyal</h1>
-      <ul>
-        <li>
-          <Link href={"/portfolio"}>Portfolio</Link>
-        </li>
-        <li>
-          <Link href={"/client"}>Client</Link>
-        </li>
-      </ul>
+      
     </div>
   )
 }
